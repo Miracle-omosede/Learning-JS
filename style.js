@@ -6,3 +6,9 @@ let gender = "male"
 let twitterHandle = "www.twitter.com/IgbinogheneM"
 
 console.table({ name, whatDoYouWannaBecome, gender, twitterHandle})
+
+
+// Reserved Keywords
+// Variables
+// Data types
+//  Boolean data types
