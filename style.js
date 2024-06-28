@@ -1,3 +1,5 @@
+// a task to create and store variables in javascript
+
 let name = "Miracle"
 let whatDoYouWannaBecome = "Software Engineer"
 let gender = "male"
