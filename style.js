@@ -5,10 +5,17 @@ let whatDoYouWannaBecome = "Software Engineer"
 let gender = "male"
 let twitterHandle = "www.twitter.com/IgbinogheneM"
 
-console.table({ name, whatDoYouWannaBecome, gender, twitterHandle})
+// console.table({ name, whatDoYouWannaBecome, gender, twitterHandle})
 
 
 // Reserved Keywords
 // Variables
 // Data types
 //  Boolean data types
+
+// null can be set by a programmer while undefined can be set by the browser...
+
+// Starting a new sequence
+
+// JavaScript Slice 
+console.log(name.length)
