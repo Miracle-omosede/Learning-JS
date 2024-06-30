@@ -25,3 +25,9 @@ const arrayOfStuffs = ['M', 'O', 'U', 'S', 'E']
 
 console.log(arrayOfStuffs.join(""))
 // join methods in JavaScript...
+
+console.log(arrayOfStuffs[0])
+
+console.log(arrayOfStuffs.includes("O"))
+
+// trim
