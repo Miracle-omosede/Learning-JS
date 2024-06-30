@@ -30,4 +30,21 @@ console.log(arrayOfStuffs[0])
 
 console.log(arrayOfStuffs.includes("O"))
 
+
 // trim
+
+let favActorFirstname = "Chris"
+let favActorLastname = "Hemsworth"
+let fullname = `${favActorFirstname} ${favActorLastname}`
+
+let uppercase = (fullname.toUpperCase())
+
+let message = `My favourite actor is ${uppercase}, `;
+message += `His best TV show is silicon valley`;
+
+console.log(message)
+
+
+
+// we're gonna be learning constructor 
+
