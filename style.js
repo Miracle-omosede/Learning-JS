@@ -18,4 +18,10 @@ let twitterHandle = "www.twitter.com/IgbinogheneM"
 // Starting a new sequence
 
 // JavaScript Slice 
-console.log(name.length)
+// console.log(name.split(""))
+
+// Learning arrays
+const arrayOfStuffs = ['M', 'O', 'U', 'S', 'E']
+
+console.log(arrayOfStuffs.join(""))
+// join methods in JavaScript...
