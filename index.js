@@ -145,10 +145,7 @@ const data = [
     return data.find((d) => d.id === id);
   }
 
-  // destructuring
-  const book = getBook(2);
-book;
+  const book = getBook(1)
 
-const {title, author, pages, publicationDate, genres, hasMovieAdaptation } = book;
-
-console.log(author, genres)
+  const bookSummary = `${book.title} is a book that is ${book.pages}-pages long, and it was published on ${book.publicationDate} and the book ${book.hasMovieAdaptation ? "has movie adaptation" : "has no movie adaptation"}`
+  bookSummary;
